@@ -1,10 +1,10 @@
 # Digital-clock
 It all started as a class task.
-<br/>
+
 However while I was thinking about some hobby projects to show off on my portfolio, I decided to take this to the nexel level :boom:
-<br/>
+
 I hope to turn this into productivty dashboard page/chrome dashboard home page
-<br/>
+
 Expected features are as follows:
  - Spotify music player
  - Favorite page reader in a glimpse without
