@@ -17,8 +17,8 @@ function clock() {
     sec = "0" + sec;
   }
 
-  //12 hour formatting
-  if (hour < 12) {
+  //12 hour formatting 
+  if (hour > 12) {
     hour = hour - 12;
   }
   if (hour == 0) {
@@ -29,7 +29,9 @@ function clock() {
     mid = "am";
   }
 
+  //Refresh page every second
   setTimeout(clock, 1000);
 
-  document.getElementById("time").innerHTML = hour + ":" + min + ":" + sec + mid;
+  document.getElementById("time").innerHTML = hour + ":" + min + ":" + sec;
+  document.getElementById
 }

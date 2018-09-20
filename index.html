@@ -3,34 +3,14 @@
   <head>
     <meta charset="utf-8">
     <title>Digital Clock</title>
-    <style>
-        body {
-          background-color: black;
-        }
-
-        #container {
-          margin-left: auto;
-          margin-right: auto;
-          width: fit-content;
-          padding-top: 40vh;
-        }
-
-        #time {
-          color: white;
-          font-family: sans-serif;
-          border: 1px solid white;
-          display: inline-block;
-          padding: 1em 2em;
-          font-size: 1.5em;
-          font-weight: 900;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body onload="clock()">
     <div id = "container">
       <p id = "time"></p>
+      <p id="mid"></p>
     </div>
     
-      <script type="text/javascript" src="digiClock.js"></script>
+    <script type="text/javascript" src="digiClock.js"></script>
   </body>
 </html>
