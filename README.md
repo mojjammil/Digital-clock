@@ -1,4 +1,4 @@
-# Digital-clock
+# Digital-clock (Work in progress)
 It all started as a class task.
 
 However while I was thinking about some hobby projects to show off on my portfolio, I decided to take this to the nexel level :boom:
