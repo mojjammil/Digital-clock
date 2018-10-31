@@ -3,7 +3,9 @@ It all started as a class task.
 
 However while I was thinking about some hobby projects to show off on my portfolio, I decided to take this to the nexel level :boom:
 
-I hope to turn this into productivty dashboard page/chrome dashboard home page
+I hope to turn this into productivty dashboard page/chrome dashboard home page.
+
+I will quite likely build this extension using ReactJS.
 
 Expected features are as follows:
  - Spotify music player
